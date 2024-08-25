@@ -18,4 +18,4 @@ PROGRAMMING LANGUAGE:
 PYTHON
 
 TOOLS:
-Jupyter Notebook, Power BI, MS Excel
+Colab Google, Tableau, MS Excel
